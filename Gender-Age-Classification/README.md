@@ -18,5 +18,5 @@ Regarding the accuracy and validation loss from the model, I attempted to increa
 In the future, I would continue to find a better way to improve this problem. Besides, I would try to make a website with this feature inside so that it could be used to classify a person's gender and age based on their input image
 
 ### Credits
-Dataset: [UTKFace Dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new)
+Dataset: [UTKFace Dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new) 
 Tutorials: [Gender and Age Prediction using Keras Tensorflow | Deep Learning | Python](https://www.youtube.com/watch?v=vEJzsGXrB70)
