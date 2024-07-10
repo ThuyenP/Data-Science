@@ -21,4 +21,5 @@ With the dataset of 18 different people, the model could only give out approxima
 
 ### Credits
 Dataset: [Celebrity Face Image Dataset](https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset)
+
 Inspired Tutorial: [Celebrities Classification | Model Training](https://www.youtube.com/watch?v=5Uc_m9CRWro)
