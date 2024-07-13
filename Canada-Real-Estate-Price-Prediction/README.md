@@ -25,4 +25,18 @@ I used several libraries for the project. In particular, I used the followings:
    * Sklearn.linear_model: LinearRegression, Lasso
    * Sklearn.tree: DecisionTreeRegressor
  
+#### Challenges
+* Train model based on Price and Location:
 
+  My initial intention was to train a model that could predict real estate price based on the input location, number of beds and baths, and the desire price per sqft. However, since the dataset have too little data for each location, the prediction accuracy drops to less than 50%. Hence, I decided to build a prediction model based only on the number of beds and baths and the desire price per sqft.
+
+* Next step:
+
+   * I could build another model that could predict housing price based on the input location, number of beds and baths, and the desire price per sqft. This could be achieved by either find a more suitable 
+large dataset or web-scrapping the data myself (through a common real estate website or an API).
+   * I could also build a model that recommend a living area for the user based on their desired input price range, number of beds and baths, and desired price per sqft.
+ 
+### Credits
+
+Dataset: [Housing Price & Real Estate - 2023](https://www.kaggle.com/datasets/reenapinto/housing-price-and-real-estate-2023)
+Inspired Tutorial: [Model Building for Real Estate in Banglore](https://www.youtube.com/watch?v=oCiRv94GMEc&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=5)
