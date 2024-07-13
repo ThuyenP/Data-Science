@@ -39,4 +39,5 @@ large dataset or web-scrapping the data myself (through a common real estate web
 ### Credits
 
 Dataset: [Housing Price & Real Estate - 2023](https://www.kaggle.com/datasets/reenapinto/housing-price-and-real-estate-2023)
+
 Inspired Tutorial: [Model Building for Real Estate in Banglore](https://www.youtube.com/watch?v=oCiRv94GMEc&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=5)
