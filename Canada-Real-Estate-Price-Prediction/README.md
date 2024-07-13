@@ -9,5 +9,6 @@ The model successfully predict the housing price with the accuracy of approximat
 ### Resources
 #### Dataset
 The dataset being used is taken from the public data source [Housing Price & Real Estate - 2023](https://www.kaggle.com/datasets/reenapinto/housing-price-and-real-estate-2023) on Kaggle. This dataset has 8 columns, which are Address, Price, Housing Description, Place (the town the house located in), Beds, Bath, Sq.Ft (Square Feet), and Website (the source of the retreived data). After data inspection and clearning, I made changes to dataset. In particular, I created a new column to calculate the price per square feet (sqft) of each house, and I also dropped 4 columns: Address, Housing Description, Place, and Website. 
-###### Data Inspection
 
+#### Data Inspection
+* Outlier:
