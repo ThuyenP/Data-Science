@@ -12,7 +12,7 @@ The dataset being used is taken from the public data source [Housing Price & Rea
 * Data Inspection
   * Outlier Detection:
   
-   During the data inspection process, I found out there are 2 main outlier datapoints in the set based on the number of bedrooms in the house. In particlar, there are only 8 houses for 8 bedrooms and 1 house for 10 bedrooms while there are more than 100 records for other type of bedrooms ranging from 1 to 7. The statistical calculation showed that those datapoint lies outside the 3 unit of standard deviation for the data, hence showing that the datapoint of 8- and 10-bedroom houses are the outliers.
+    During the data inspection process, I found out there are 2 main outlier datapoints in the set based on the number of bedrooms in the house. In particlar, there are only 8 houses for 8 bedrooms and 1 house for 10 bedrooms while there are more than 100 records for other type of bedrooms ranging from 1 to 7. The statistical calculation showed that those datapoint lies outside the 3 unit of standard deviation for the data, hence showing that the datapoint of 8- and 10-bedroom houses are the outliers.
   * Outlier Solution:
 
     Since the dataset is large (with approximately 3500 datapoints), I decided to drop these outlier points and proceed with the model building.
