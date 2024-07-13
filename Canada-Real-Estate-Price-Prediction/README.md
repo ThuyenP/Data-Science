@@ -18,3 +18,11 @@ The dataset being used is taken from the public data source [Housing Price & Rea
     Since the dataset is large (with approximately 3500 datapoints), I decided to drop these outlier points and proceed with the model building.
 
 #### Techonologies
+I used several libraries for the project. In particular, I used the followings:
+* Data Analysis: Panda, Numpy, Seaborn, Spicy, Matplotlib, and SqlAlchemy
+* Model Building:
+   * Sklearn.model_selection: train_test_split, ShuffleSplit, cross_val_score, GridSearchCV
+   * Sklearn.linear_model: LinearRegression, Lasso
+   * Sklearn.tree: DecisionTreeRegressor
+ 
+
